@@ -3,7 +3,7 @@
 Physics, B.S. — Southern Illinois University Edwardsville (2026)
 
 Pivoting to GPU performance engineering. CUDA, systems programming, deep learning infrastructure.
-Working on producing more than I consume. 
+
 
 ---
 
