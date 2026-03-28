@@ -2,7 +2,7 @@
 
 Physics, B.S. — Southern Illinois University Edwardsville (2026)
 
-GPU performance engineering. CUDA, systems programming, deep learning infrastructure.
+Pivoting to GPU performance engineering. CUDA, systems programming, deep learning infrastructure.
 
 ---
 
@@ -15,12 +15,11 @@ GPU performance engineering. CUDA, systems programming, deep learning infrastruc
 
 Technical blog coming soon.
 
-### Previously
+### Complete
+- Lambda cloud GPU development environment configuration - (https://github.com/5ara5t1/lambda-dev-env)[Github]
 
-- Enterprise monitoring and observability infrastructure (Datadog, PagerDuty, Terraform)
-- ML data pipelines and ETL workflows on Kubernetes
-- Data engineering solutions for client systems
-- Lambda cloud GPU development environment configuration
+### Previously
+- See my (https://www.linkedin.com/in/bryce-fitzgerald/)[Linkedin], github is for code.
 
 ### Contact
 
