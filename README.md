@@ -3,6 +3,7 @@
 Physics, B.S. — Southern Illinois University Edwardsville (2026)
 
 Pivoting to GPU performance engineering. CUDA, systems programming, deep learning infrastructure.
+Working on producing more than I consume. 
 
 ---
 
@@ -11,15 +12,15 @@ Pivoting to GPU performance engineering. CUDA, systems programming, deep learnin
 
 - Refreshing Python and Go, revitalizing fundamentals
 - Working through PyTorch, reviewing systems basics
-- Setting up CUDA development environment
+- Double slit experiment simulation square academic cap
 
 Technical blog coming soon.
 
 ### Complete
-- Lambda cloud GPU development environment configuration - (https://github.com/5ara5t1/lambda-dev-env)[Github]
+- Lambda cloud GPU development environment configuration - [Github](https://github.com/5ara5t1/lambda-dev-env)
 
 ### Previously
-- See my (https://www.linkedin.com/in/bryce-fitzgerald/)[Linkedin], github is for code.
+- See my [Linkedin](https://www.linkedin.com/in/bryce-fitzgerald/), github is for code.
 
 ### Contact
 
