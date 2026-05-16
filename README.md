@@ -8,7 +8,6 @@ Edwardsville, Illinois (open to Austin, Seattle).
 ## Repositories
 
 - [cuda-learning](https://github.com/5ara5t1/cuda-learning) — CUDA kernel exercises with Nsight Compute profiles.
-- [cuda-cache-lab](https://github.com/5ara5t1/cuda-cache-lab) — memory-hierarchy microbenchmarks across CPU and GPU.
 
 *Forthcoming:* a progressive fp16 GEMM targeting Turing tensor cores; Flash Attention from scratch in CUDA, Triton, and HIP; an out-of-tree LLVM Function pass operating on CUDA-compiled IR; an Airflow DAG for multi-GPU kernel regression testing.
 
