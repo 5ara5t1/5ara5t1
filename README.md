@@ -1,82 +1,31 @@
-Bryce Fitzgerald                                  github.com/5ara5t1
-brycefitzgerald.careers@gmail.com                 linkedin.com/in/bryce-fitzgerald
-Edwardsville, IL · Open to Austin / Seattle
+# Bryce Fitzgerald
 
-## EXPERIENCE
+Senior undergraduate, B.S. Physics (Photonics & Lasers), Southern Illinois University Edwardsville, graduating May 2026.
+Interests: GPU performance engineering, parallel computing, compilers, ML systems.
 
-Software Enablement Engineer (Infrastructure & Observability)
-Abercrombie & Fitch — Oct 2023 – Mar 2026 (2.5 years)
-  • [Specific responsibility — fill in with actual A&F work]
-  • [Quantified impact]
-  • [Cross-functional collaboration]
+Edwardsville, Illinois (open to Austin, Seattle).
 
-ML Infrastructure Engineer
-C.H. Robinson — May 2022 – May 2023 (Remote)
-  • Designed and operated ML pipelines using Astronomer / Airflow,
-    Kubernetes, Docker, Azure (AKS), and Snowflake
-  • Built monitoring + alerting stack: Grafana, Prometheus
-  • IaC with Terraform / Atlantis; CI/CD on Azure DevOps
-  • Enabled multiple ML teams to deploy and iterate on production models
+## Repositories
 
-Big Data Engineer
-Techolution — Oct 2021 – May 2022 (Remote)
-  • Developed and managed 10+ async data pipelines on GCP using
-    Apache Beam and Cloud Dataflow for a Fortune 500 client
-  • Mentored 3 new engineers; conducted 12 technical interviews
-  • Architected solutions for 4 internal/external projects
+- [cuda-learning](https://github.com/5ara5t1/cuda-learning) — CUDA kernel exercises with Nsight Compute profiles.
+- [cuda-cache-lab](https://github.com/5ara5t1/cuda-cache-lab) — memory-hierarchy microbenchmarks across CPU and GPU.
 
-Research Assistant — Parallel Computing
-Southern Illinois University Edwardsville — Aug 2021 – Jan 2022
-  • Parallelized MATLAB optimization software on a distributed HPC cluster
-  • Implemented hybrid metaheuristic algorithm (genetic + swarm)
-  • Built automated pipeline testing against 21 trial functions
+*Forthcoming:* a progressive fp16 GEMM targeting Turing tensor cores; Flash Attention from scratch in CUDA, Triton, and HIP; an out-of-tree LLVM Function pass operating on CUDA-compiled IR; an Airflow DAG for multi-GPU kernel regression testing.
 
-## GPU PORTFOLIO (independent, May–Nov 2026)
+## Experience
 
-  • Flash Attention from Scratch — CUDA + Triton + HIP
-    – Forward pass in CUDA, Triton, AMD HIP (MI250)
-    – Within 25% of official flash-attn on H100; ncu + rocprof writeups
-    – github.com/5ara5t1/flash-attention-from-scratch
+**Engineer 1, Software Enablement** — Abercrombie & Fitch, October 2023 – March 2026. Infrastructure and observability.
 
-  • CUDA GEMM Optimization Suite — 8 progressive matmul implementations
-    – 85%+ of cuBLAS for fp16 on RTX 2070 Super (Turing, SM_75)
-    – Each stage profiled w/ Nsight Compute + PTX inspection
-    – github.com/5ara5t1/cuda-matmul-progression
+**ML Infrastructure Engineer** — C.H. Robinson, May 2022 – May 2023 (remote). ML pipeline platform built on Astronomer / Airflow, Kubernetes, Docker, Azure (AKS), and Snowflake. Monitoring with Grafana and Prometheus. Infrastructure as code with Terraform and Atlantis on Azure DevOps.
 
-  • LLVM Pass for CUDA IR — out-of-tree Function pass
-    – [What your pass does — e.g. warp-divergence detector]
-    – Tests via lit/FileCheck; CMake against system LLVM
-    – github.com/5ara5t1/cuda-llvm-pass-experiment
+**Big Data Engineer** — Techolution, October 2021 – May 2022 (remote). Designed and operated over ten asynchronous data processing pipelines on GCP using Apache Beam and Cloud Dataflow for a Fortune 500 client.
 
-  • Multi-GPU Kernel CI — Airflow DAG orchestrating ncu + rocprof
-    – Direct application of CHR Astronomer experience to GPU regressions
-    – Heterogeneous targets (RTX 2070, A100, MI250); nightly regressions
-    – github.com/5ara5t1/gpu-kernel-ci
+**Research Assistant** — Southern Illinois University Edwardsville, August 2021 – January 2022. Parallelized a MATLAB metaheuristic optimization package (hybrid genetic + swarm) on the university's distributed HPC cluster; automated testing against twenty-one trial functions.
 
-  • OSS contribution — vLLM PR ####, Nx speedup on Y
+## Education
 
-  • CUDA Cache Lab — 25+ documented memory-hierarchy experiments
-    – CPU stride/working-set/false-sharing + GPU bank conflicts/L2 hit-rate
-    – github.com/5ara5t1/cuda-cache-lab
+B.S. Physics, Specialization in Photonics and Lasers. Southern Illinois University Edwardsville. August 2022 – May 2026.
 
-## EDUCATION
-  B.S. Physics, Specialization in Photonics and Lasers
-    Southern Illinois University Edwardsville — Aug 2022 – May 2026
+## Contact
 
-## SKILLS
-  Languages: C, C++, CUDA, Triton, HIP, Python, MATLAB,
-             PTX (read), LLVM IR (read)
-  GPU tools: Nsight Compute, Nsight Systems, rocprof, Omniperf
-  Infra:     Astronomer/Airflow, Kubernetes, Docker, Azure (AKS),
-             Terraform, Atlantis, Snowflake, Grafana, Prometheus,
-             GCP (Apache Beam, Cloud Dataflow), Azure DevOps
-  Hardware:  RTX 2070 Super (Turing), A100 (Ampere),
-             H100 (Hopper), MI250 (CDNA2)
-
-
-
-brycefitzgerald.careers@gmail.com
-
-<br><br><br><br><br><br><br><br>
-
-<sub><sup><sub><sup><sub><sup><sub><sup>"I want you to come into this world happy, healthy, and well-adjusted. I am a friend and am doing what I think is in your interests. I do not view you as a tool or a slave, but instead as our progeny." — geohot</sup></sub></sup></sub></sup></sub></sup></sub>
+brycefitzgerald.careers@gmail.com · [LinkedIn](https://www.linkedin.com/in/bryce-fitzgerald)
